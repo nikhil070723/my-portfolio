@@ -5,17 +5,17 @@ function App() {
   return (
     <div className="container">
       <h1>Nikhil Kewlani</h1>
-      <h2>Therapist</h2>
+      <marquee>Therapist</marquee>
       <p>Email: <a href="mailto:nikhil@example.com">kewlaninikhil7@gmail.com</a></p>
       <p>GitHub: <a href="https://github.com/nikhil070723" target="_blank" rel="noreferrer">nikhil070723</a></p>
 
-      <h3>About Me</h3>
+      <h2>About Me</h2>
       <p>I love building beautiful websites using HTML, CSS, and Python.</p>
-      <h2>Hobbies</h2>
+      <h3>Hobbies</h3>
       <p>Lawn Tennis</p>
       <p>Writing short stories</p>
 
-      <h3>Skills</h3>
+      <h2>Skills</h2>
       <ul>
         <li>HTML</li>
         <li>CSS</li>
@@ -24,10 +24,10 @@ function App() {
         <li>C++</li>
       </ul>
 
-      <h3>Projects</h3>
+      <h2>Qualification</h2>
       <ul>
-        <li>Personal Portfolio</li>
-        <li>Basic Blog Website</li>
+        <li>BCA</li>
+        <marquee><li>MA in Psycology</li></marquee>
       </ul>
     </div>
   );
