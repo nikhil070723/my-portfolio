@@ -1,9 +1,9 @@
 body {
-  font-family: 'Segoe UI', sans-serif;
+  font-family: 'Segoe UI', Comic Sans MS;
   margin: 0;
   padding: 0;
   background: linear-gradient(135deg, #fdfbfb 0%, #ebedee 100%);
-  color: #2c3e50;
+  color: #1e82e6;
 }
 
 .container {
@@ -17,18 +17,18 @@ body {
 
 h1 {
   font-size: 3em;
-  color: #3498db;
+  color: #9d12d9;
   margin-bottom: 0;
 }
 
 h2 {
-  color: #7f8c8d;
+  color: #35bc0c;
   margin-top: 0;
   font-weight: normal;
 }
 
 a {
-  color: #2980b9;
+  color: #cc0c0c;
   text-decoration: none;
 }
 
