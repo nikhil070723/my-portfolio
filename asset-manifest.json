@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/firstblog/static/css/main.a11a0727.css",
+    "main.js": "/firstblog/static/js/main.92f20569.js",
+    "static/js/453.438d9e50.chunk.js": "/firstblog/static/js/453.438d9e50.chunk.js",
+    "index.html": "/firstblog/index.html",
+    "main.a11a0727.css.map": "/firstblog/static/css/main.a11a0727.css.map",
+    "main.92f20569.js.map": "/firstblog/static/js/main.92f20569.js.map",
+    "453.438d9e50.chunk.js.map": "/firstblog/static/js/453.438d9e50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a11a0727.css",
+    "static/js/main.92f20569.js"
+  ]
+}
